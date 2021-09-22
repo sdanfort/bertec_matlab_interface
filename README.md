@@ -1,6 +1,6 @@
 # bertec_matlab_interface
 
-This is code to get force plate values from a Bertec treadmill into Matlab through the Vicon SDK. The treadmill functions are from willpower2727: https://github.com/willpower2727/HMRL-Matlab-Treadmill-Functions
+This is an example for getting force plate values from a Bertec treadmill into Matlab through the Vicon SDK. The treadmill functions are from willpower2727: https://github.com/willpower2727/HMRL-Matlab-Treadmill-Functions
 
 Run `treadmill_interface_example` to get started. Will need to adjust filepaths for your computer.
 
